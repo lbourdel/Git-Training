@@ -3,5 +3,5 @@
 
 void func2(void)
 {
-    printf("func2");
+    printf("func2+");
 }
