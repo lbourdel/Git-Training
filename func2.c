@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-
 void func2(void)
 {
-    printf("func2");
+    printf("func2 %d :", 3);
 }
